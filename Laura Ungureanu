@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mâncăruri Românești de Sărbători</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Mâncăruri Românești de Sărbători</h1>
+      <h2>Plats Roumains pour Noël</h2>
+    </div>
+  </header>
+
+  <div class="content">
+    <section id="sarmale">
+      <h3>Sarmale</h3>
+      <img src="sarmale.jpg" alt="Sarmale" />
+      <p><strong>Română:</strong> Foi de varză umplute cu carne tocată și orez, gătite încet.</p>
+      <p><strong>Français:</strong> Feuilles de chou farcies avec de la viande hachée et du riz, cuites lentement.</p>
+    </section>
+
+    <section id="caltabos">
+      <h3>Caltaboș</h3>
+      <img src="caltabos.jpg" alt="Caltaboș" />
+      <p><strong>Română:</strong> Un preparat tradițional din carne de porc și orez, asemănător cârnaților.</p>
+      <p><strong>Français:</strong> Un plat traditionnel à base de viande de porc et de riz, semblable à des saucisses.</p>
+    </section>
+
+    <section id="piftie">
+      <h3>Piftie</h3>
+      <img src="piftie.jpg" alt="Piftie" />
+      <p><strong>Română:</strong> Aspic cu carne de porc, servit rece.</p>
+      <p><strong>Français:</strong> Aspic avec de la viande de porc, servi froid.</p>
+    </section>
+
+    <section id="carne">
+      <h3>Cârnați</h3>
+      <img src="carnati.jpg" alt="Cârnați" />
+      <p><strong>Română:</strong> Cârnați afumați sau proaspeți, serviți cu mămăligă.</p>
+      <p><strong>Français:</strong> Saucisses fumées ou fraîches, servies avec de la polenta.</p>
+    </section>
+
+    <section id="cozonac">
+      <h3>Cozonac</h3>
+      <img src="cozonac.jpg" alt="Cozonac" />
+      <p><strong>Română:</strong> Desert tradițional, un aluat dulce umplut cu nucă, mac sau cacao.</p>
+      <p><strong>Français:</strong> Dessert traditionnel, une pâte sucrée remplie de noix, de pavot ou de cacao.</p>
+    </section>
+
+    <section id="mamaliga">
+      <h3>Mămăligă cu brânză și smântână</h3>
+      <img src="mamaliga.jpg" alt="Mămăligă" />
+      <p><strong>Română:</strong> Preparat simplu, dar savuros, servit frecvent.</p>
+      <p><strong>Français:</strong> Plat simple mais délicieux, souvent servi.</p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Mâncăruri Românești de Sărbători</p>
+  </footer>
+</body>
+</html>
